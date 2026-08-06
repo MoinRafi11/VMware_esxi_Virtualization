@@ -60,6 +60,23 @@ From the **New Virtual Machine** wizard, **Create a new virtual machine** was se
 
 ![Step 1 - Select Creation Type](screenshot/01-select-creation-type.png)
 
+
+## Step 2: Configure Virtual Machine Name and Guest Operating System
+
+### 🎯 Objective
+
+Configure the virtual machine by assigning a unique name and selecting the appropriate guest operating system to ensure VMware ESXi applies the correct default settings.
+
+### 📝 Description
+
+In this step, a unique name was assigned to the virtual machine. The guest operating system family was set to **Windows**, and the operating system version was selected as **Microsoft Windows 10 (64-bit)**. Selecting the correct operating system ensures compatibility and allows VMware ESXi to apply optimized virtual hardware settings for the VM.
+
+### 📷 Screenshot
+
+![Step 2 - Configure VM Name and Guest OS](screenshot/02-configure-vm-name-os.png)
+
+---
+
 ---
 
 ## 💡 Skills Demonstrated

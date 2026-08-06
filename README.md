@@ -46,20 +46,21 @@ This lab was completed as part of my DevOps learning journey to strengthen my un
 ---
 
 ## 📸 Screenshots
+## Step 1: Select Creation Type
 
-The screenshots for each stage of the virtual machine deployment are available in the **screenshots/** folder.
+### 🎯 Objective
 
-The documented process includes:
+To begin the virtual machine creation process by selecting the appropriate deployment option in VMware ESXi.
 
-- Login to VMware ESXi
-- Creating a New Virtual Machine
-- Selecting the Guest Operating System
-- Configuring CPU and Memory
-- Configuring Virtual Storage
-- Configuring Network Settings
-- Mounting the ISO Image
-- Operating System Installation
-- Successful VM Deployment
+### 📝 Description
+
+From the **New Virtual Machine** wizard, **Create a new virtual machine** was selected. This option is used to create a new virtual machine from scratch, allowing complete customization of the virtual hardware such as CPU, memory, storage, and networking before installing the operating system.
+
+### 📷 Screenshot
+
+![Step 1 - Select Creation Type](screenshot/01-select-creation-type.png)
+
+---
 
 ## 💡 Skills Demonstrated
 

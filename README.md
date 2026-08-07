@@ -71,7 +71,7 @@ From the **New Virtual Machine** wizard, **Create a new virtual machine** was se
 
 ## 📘 Detailed Installation Guide
 
-The complete VMware ESXi installation walkthrough, including all screenshots and detailed explanations, is available in **VMware_ESXi_Lab_Guide.pdf**.
+The complete VMware ESXi installation walkthrough, including all screenshots and detailed explanations, is available in **[VMware_ESXi_Lab_Guide.pdf](VMware_ESXi_Lab_Guide.pdf)**
 
 
 -----------------------------------------

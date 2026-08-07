@@ -33,20 +33,22 @@ This lab was completed as part of my DevOps learning journey to strengthen my un
 
 ## 📚 Project Workflow
 
-Introduction
-Prerequisites
-Lab Environment
-Step 1: Select Creation Type
-Step 2: Select Name and Guest OS
-Step 3: Select Storage
-Step 4: Customize Virtual Hardware
-Step 5: Review Configuration
-Step 6: Choose Installation Type
-Step 7: Select Installation Drive
-Step 8: Installing Windows
-Step 9: Initial Windows Setup
-Step 10: Verifying Successful Installation
-Conclusion
+## 📘 Project Workflow
+
+- Introduction
+- Prerequisites
+- Lab Environment
+- Step 1: Select Creation Type
+- Step 2: Select Name and Guest OS
+- Step 3: Select Storage
+- Step 4: Customize Virtual Hardware
+- Step 5: Review Configuration
+- Step 6: Choose Installation Type
+- Step 7: Select Installation Drive
+- Step 8: Installing Windows
+- Step 9: Initial Windows Setup
+- Step 10: Verifying Successful Installation
+- Conclusion
 
 ---
 
